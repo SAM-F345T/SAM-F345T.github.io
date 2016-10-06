@@ -4,7 +4,7 @@
 # color: blue
 
 # Name of your site (displayed in the header)
-name: Sam F345T
+name: Sam F
 
 # Short bio or description (displayed in the header)
 description: New student web developer.
@@ -15,6 +15,9 @@ avatar: http://1.bp.blogspot.com/-5HG2vabv9to/VoP4Lpgd26I/AAAAAAAAAws/0Ohj0BWLww
 #
 # Flags below are optional
 # 
+ <!Doctype Html>
+ <p> This is a test </p>
+ </!Doctype Html>
 
 
 # Includes an icon in the footer for each username you enter
